@@ -1,0 +1,16 @@
+{
+  "pca99_twonn": {
+    "predictor": "pca99_twonn_ratio",
+    "replicates_retained": 50000,
+    "rho_median": 0.9999999999999999,
+    "rho_ci95_low": 0.8165137614678899,
+    "rho_ci95_high": 1.0
+  },
+  "erank_twonn": {
+    "predictor": "erank_twonn_ratio",
+    "replicates_retained": 50000,
+    "rho_median": 0.9999999999999999,
+    "rho_ci95_low": 0.8165137614678899,
+    "rho_ci95_high": 1.0
+  }
+}

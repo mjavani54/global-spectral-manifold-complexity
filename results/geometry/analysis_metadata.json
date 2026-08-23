@@ -1,0 +1,22 @@
+{
+  "method_note": "Cross-family spectra are resampled along a normalized [0,1] coordinate only to control grid resolution; physical spectral ranges differ and are not aligned.",
+  "common_response_dim": 200,
+  "sample_sizes": [
+    1000,
+    2500,
+    5000
+  ],
+  "repeats": 5,
+  "global_bootstrap": 30,
+  "max_k": 30,
+  "local_pca_neighbors": 100,
+  "local_pca_points": 200,
+  "base_seed": 240819,
+  "synthetic_self_test": {
+    "true_dimension": 5.0,
+    "twonn_mle": 5.009607051904625,
+    "twonn_slope": 4.979636337437112,
+    "lb20_harmonic": 4.749096992987478
+  },
+  "runtime_seconds": 88.67244935035706
+}

@@ -1,0 +1,20 @@
+case,family,member,kind,rows,columns,notes
+multilayer_8,multilayer,Datasets/SiO2_TiO2_8_layer_50K_200_points_DS.csv,design,8,50000,SiO2/TiO2 layer thicknesses
+multilayer_8,multilayer,Datasets/SiO2_TiO2_8_layer_50K_200_points_RS.csv,response,200,50000,transmission spectrum
+multilayer_10,multilayer,Datasets/SiO2_TiO2_10_layer_50K_200_points_DS.csv,design,10,50000,SiO2/TiO2 layer thicknesses
+multilayer_10,multilayer,Datasets/SiO2_TiO2_10_layer_50K_200_points_RS.csv,response,200,50000,transmission spectrum
+multilayer_12,multilayer,Datasets/SiO2_TiO2_12_layer_50K_200_points_DS.csv,design,12,50000,SiO2/TiO2 layer thicknesses
+multilayer_12,multilayer,Datasets/SiO2_TiO2_12_layer_50K_200_points_RS.csv,response,200,50000,transmission spectrum
+multilayer_14,multilayer,Datasets/SiO2_TiO2_14_layer_50K_200_points_DS.csv,design,14,50000,SiO2/TiO2 layer thicknesses
+multilayer_14,multilayer,Datasets/SiO2_TiO2_14_layer_50K_200_points_RS.csv,response,200,50000,transmission spectrum
+multilayer_16,multilayer,Datasets/SiO2_TiO2_16_layer_50K_200_points_DS.csv,design,16,50000,SiO2/TiO2 layer thicknesses
+multilayer_16,multilayer,Datasets/SiO2_TiO2_16_layer_50K_200_points_RS.csv,response,200,50000,transmission spectrum
+multilayer_18,multilayer,Datasets/SiO2_TiO2_18_layer_50K_200_points_DS.csv,design,18,50000,SiO2/TiO2 layer thicknesses
+multilayer_18,multilayer,Datasets/SiO2_TiO2_18_layer_50K_200_points_RS.csv,response,200,50000,transmission spectrum
+multilayer_20,multilayer,Datasets/SiO2_TiO2_20_layer_200K_200_points_DS.csv,design,20,200000,SiO2/TiO2 layer thicknesses
+multilayer_20,multilayer,Datasets/SiO2_TiO2_20_layer_200K_200_points_RS.csv,response,200,200000,transmission spectrum
+2x2,metasurface,Datasets/2X2_DS.csv,design,9,6000,period and eight pillar radii
+2x2,metasurface,Datasets/2X2_RS.csv,response,551,6000,reflection spectrum
+grating,grating,Datasets/Grating_DS.csv,design,4,12000,archived coordinates are unlabeled
+grating,grating,Datasets/Grating_RS.csv,response,400,12000,reflection spectrum
+

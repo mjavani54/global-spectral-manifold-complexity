@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or the frozen results, please cite the associated manuscript and this software release."
+title: "Global spectral manifold complexity and neural-surrogate learning difficulty in nanophotonics"
+type: software
+authors:
+  - family-names: "Javani"
+    given-names: "Mohammad H."
+affiliation: "Clark Atlanta University"
+version: "1.0.0"
+date-released: "2026-08-23"
+license: MIT
+keywords:
+  - nanophotonics
+  - neural surrogate
+  - intrinsic dimension
+  - principal component analysis
+  - learning curves
+  - sample efficiency
+preferred-citation:
+  type: article
+  title: "Global spectral manifold complexity predicts neural-surrogate learning difficulty in nanophotonics"
+  authors:
+    - family-names: "Javani"
+      given-names: "Mohammad H."
+  journal: "Optics Express"
+  notes: "Manuscript under preparation; add all coauthors, year, volume, pages, and DOI after acceptance."
+

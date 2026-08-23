@@ -1,0 +1,10 @@
+case,target_r2,parameter_threshold,parameter_threshold_status
+2x2,0.99,,>895688
+grating,0.99,,>893128
+multilayer_10,0.99,10120.0,resolved
+multilayer_12,0.99,26312.0,resolved
+multilayer_14,0.99,77256.0,resolved
+multilayer_16,0.99,,>899272
+multilayer_18,0.99,,>900296
+multilayer_20,0.99,,>901320
+multilayer_8,0.99,10056.0,resolved
